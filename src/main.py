@@ -2,7 +2,7 @@
 
 
 def main():
-    print("Pipou Président")
+    print("Pingu Président")
 
 
 if __name__ == "__main__":
